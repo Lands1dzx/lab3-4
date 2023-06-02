@@ -1,0 +1,25 @@
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\IVT-341_1\Desktop\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.exe
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.deps.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\bin\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.dll
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ConsoleApp2\obj\Debug\netcoreapp3.0\ConsoleApp2.genruntimeconfig.cache

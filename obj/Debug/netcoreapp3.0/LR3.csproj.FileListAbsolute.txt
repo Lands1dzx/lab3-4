@@ -1,0 +1,50 @@
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\bin\Debug\netcoreapp3.0\LR3.exe
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\bin\Debug\netcoreapp3.0\LR3.deps.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.dev.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\bin\Debug\netcoreapp3.0\LR3.dll
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\bin\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.AssemblyInfo.cs
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.dll
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3\obj\Debug\netcoreapp3.0\LR3.genruntimeconfig.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\bin\Debug\netcoreapp3.0\LR3.exe
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\bin\Debug\netcoreapp3.0\LR3.deps.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.dev.json
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\bin\Debug\netcoreapp3.0\LR3.dll
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\bin\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.AssemblyInfo.cs
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.dll
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\user\Documents\Лабы\магистратура\2 семестр\C#\ПИм-221\ЛР3-1\obj\Debug\netcoreapp3.0\LR3.genruntimeconfig.cache
+C:\Users\sergay\Desktop\Новая папка\bin\Debug\netcoreapp3.0\LR3.exe
+C:\Users\sergay\Desktop\Новая папка\bin\Debug\netcoreapp3.0\LR3.deps.json
+C:\Users\sergay\Desktop\Новая папка\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.json
+C:\Users\sergay\Desktop\Новая папка\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.dev.json
+C:\Users\sergay\Desktop\Новая папка\bin\Debug\netcoreapp3.0\LR3.dll
+C:\Users\sergay\Desktop\Новая папка\bin\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\sergay\Desktop\Новая папка\obj\Debug\netcoreapp3.0\LR3.csprojAssemblyReference.cache
+C:\Users\sergay\Desktop\Новая папка\obj\Debug\netcoreapp3.0\LR3.AssemblyInfoInputs.cache
+C:\Users\sergay\Desktop\Новая папка\obj\Debug\netcoreapp3.0\LR3.AssemblyInfo.cs
+C:\Users\sergay\Desktop\Новая папка\obj\Debug\netcoreapp3.0\LR3.dll
+C:\Users\sergay\Desktop\Новая папка\obj\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\sergay\Desktop\Лаба3-4\bin\Debug\netcoreapp3.0\LR3.exe
+C:\Users\sergay\Desktop\Лаба3-4\bin\Debug\netcoreapp3.0\LR3.deps.json
+C:\Users\sergay\Desktop\Лаба3-4\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.json
+C:\Users\sergay\Desktop\Лаба3-4\bin\Debug\netcoreapp3.0\LR3.runtimeconfig.dev.json
+C:\Users\sergay\Desktop\Лаба3-4\bin\Debug\netcoreapp3.0\LR3.dll
+C:\Users\sergay\Desktop\Лаба3-4\bin\Debug\netcoreapp3.0\LR3.pdb
+C:\Users\sergay\Desktop\Лаба3-4\obj\Debug\netcoreapp3.0\LR3.csprojAssemblyReference.cache
+C:\Users\sergay\Desktop\Лаба3-4\obj\Debug\netcoreapp3.0\LR3.AssemblyInfoInputs.cache
+C:\Users\sergay\Desktop\Лаба3-4\obj\Debug\netcoreapp3.0\LR3.AssemblyInfo.cs
+C:\Users\sergay\Desktop\Лаба3-4\obj\Debug\netcoreapp3.0\LR3.dll
+C:\Users\sergay\Desktop\Лаба3-4\obj\Debug\netcoreapp3.0\LR3.pdb
